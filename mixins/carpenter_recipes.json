@@ -1,8 +1,8 @@
 {
     "craftable_recipes": {
       "signage_decoration" : {
-         "ordinal" : 4, 
-         "name" : "Signage & Decoration", 
+         "ordinal" : 5, 
+         "name" : "Storage", 
          "recipes" : {
                 "box_small": {
                     "recipe": "file(/recipes/box_small_recipe.json)"

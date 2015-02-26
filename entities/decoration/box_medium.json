@@ -8,7 +8,7 @@
             "placeable_on_ground": true
         },
 		      "render_info" : {
-         "scale" : 0.6
+         "scale" : 0.12
       },
         "region_collision_shape" : {
          "region": [
