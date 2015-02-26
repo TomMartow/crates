@@ -1,0 +1,19 @@
+{
+    "craftable_recipes": {
+      "signage_decoration" : {
+         "ordinal" : 4, 
+         "name" : "Signage & Decoration", 
+         "recipes" : {
+                "box_small": {
+                    "recipe": "file(/recipes/box_small_recipe.json)"
+                },
+                "box_medium": {
+                    "recipe": "file(/recipes/box_medium_recipe.json)"
+                },
+                "box_large": {
+                    "recipe": "file(/recipes/box_large_recipe.json)"
+                }
+            }
+        }
+    }
+}

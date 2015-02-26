@@ -1,0 +1,16 @@
+{
+    "info": {
+        "name": "Crates",
+        "version": 1
+    },
+    "aliases": {
+        "box_small": "file(entities/decoration/box_small.json)",
+        "box_medium": "file(entities/decoration/box_medium.json)",
+        "box_large": "file(entities/decoration/box_large.json)"
+    },
+    "mixintos": {
+        "/stonehearth/jobs/carpenter/recipes/recipes.json": [
+            "file(mixins/carpenter_recipes.json)"
+        ]
+    }
+}
